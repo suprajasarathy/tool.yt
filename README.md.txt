@@ -67,6 +67,6 @@ if __name__ == '__main__':
     main()
 
 <!---
-KIKAOP/KIKAOP is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+suprajasarathy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
